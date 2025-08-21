@@ -122,29 +122,37 @@ The application uses MongoDB with the following main collections:
 ## 📷 Screenshots
 
 /Register
+
 <img width="548" height="874" alt="image" src="https://github.com/user-attachments/assets/c4b68609-59d3-4c20-b621-c9b717a137d5" />
 
 /Register-seller
+
 <img width="562" height="947" alt="image" src="https://github.com/user-attachments/assets/01d70cc4-34d2-4113-9462-bad999a7027c" />
 
 /Register-user
+
 <img width="572" height="963" alt="image" src="https://github.com/user-attachments/assets/1d52e97f-221e-4f4b-b026-1ad66cfc8c5f" />
 
 /public
+
 <img width="989" height="947" alt="image" src="https://github.com/user-attachments/assets/9b309be9-61ed-49c2-b0ac-5b05f8c7917f" />
 
 <img width="1003" height="989" alt="image" src="https://github.com/user-attachments/assets/1e228dbb-79c7-4de3-ac34-6c08d69b2dcb" />
 
 /cart
+
 <img width="639" height="930" alt="image" src="https://github.com/user-attachments/assets/da7b711c-4ffe-4d38-aeb7-77c9c34d6d49" />
 
 /buyer/checkout
+
 <img width="642" height="981" alt="image" src="https://github.com/user-attachments/assets/0e705e32-9180-41be-8a3c-8b4313c2f1b5" />
 
 /buyer/orders
+
 <img width="616" height="983" alt="image" src="https://github.com/user-attachments/assets/66abdbc3-a7fa-420d-96ed-3d3f1525843a" />
 
 /seller/dashboard
+
 <img width="696" height="983" alt="image" src="https://github.com/user-attachments/assets/b343648c-ab06-453c-a65c-902a955a84cf" />
 
 
