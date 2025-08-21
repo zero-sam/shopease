@@ -1,0 +1,16 @@
+Feature	                                    Status
+User Model & Authentication	                Completed
+JWT Authentication & Roles	                Completed
+Profile Endpoint	                        Completed
+Product Model & CRUD	                    Completed
+MongoDB Atlas Integration	                Completed
+GitHub Repository Setup	                    Completed
+Order System                                Completed
+
+Payment Integration                         Pending
+
+Email/Notifications                         Pending
+
+File/Image Upload                           Pending
+
+Search / Filtering                          Pending
