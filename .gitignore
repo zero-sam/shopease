@@ -30,3 +30,26 @@ yarn-error.log*
 *.ntvs*
 *.njsproj
 *.sln
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Debug
+.debug
+
+# Local files
+.local
+
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
